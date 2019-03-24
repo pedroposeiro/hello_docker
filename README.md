@@ -14,7 +14,7 @@ scrapy crawl hello_tree
 #### To run from docker:
 ```
 sudo docker run -v $(pwd):/hello_docker  hello_docker
-``
+```
 #### Outputs:
 Decision tree: *Tree.txt*
 ```
